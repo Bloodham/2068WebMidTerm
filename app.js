@@ -1,3 +1,8 @@
+/* Web Mid Term
+Ryan Jameson
+http://webmidterm.azurewebsites.net/
+Gives the routes and users directory
+*/
 var express = require('express');
 var path = require('path');
 var favicon = require('serve-favicon');
