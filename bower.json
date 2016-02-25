@@ -1,0 +1,24 @@
+{
+  "name": "Ryan",
+  "description": "Mid term Web",
+  "main": "",
+  "authors": [
+    "Bloodham <bloodham25@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Bloodham/2068WebMidTerm",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/Scripts/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.5.0"
+  }
+}
